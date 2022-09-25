@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+$main-color:rgb(255, 0, 0);
+$main-color2: rgb(0, 132, 255);
+$main-font: 'Aboreto', cursive;
+
+$main-color-darken:darken($main-color,10);
+$main-color-lighting:lighten($main-color2,10);
