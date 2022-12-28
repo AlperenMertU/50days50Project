@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(160, 160, 185);
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    text-align: center;
+    margin: 30px;
+    .numbers{
+        font-size: 60px;
+ }
+}
+
